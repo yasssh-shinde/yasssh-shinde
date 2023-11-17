@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;I+Am+Yash+Shinde;And+I+Am+A+Web+Developer)](https://git.io/typing-svg)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1750&pause=200&random=false&width=435&lines=Hello;I+Am+Yash+Shinde;And+I+Am++Web+Developer+" alt="Typing SVG" /></a>
