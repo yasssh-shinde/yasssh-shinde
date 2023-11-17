@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yasssh-shinde/yasssh-shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;Yash+Here;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;I+Am+Yash+Shinde;And+I+Am+A+Web+Developer)](https://git.io/typing-svg)
