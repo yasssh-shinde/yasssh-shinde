@@ -13,7 +13,7 @@ I specialize in building **intelligent AI systems and LLM-powered solutions** th
 - 💡 **Current Focus:** Developing **AI/ML projects and LLM applications** that demonstrate **real-world impact**  
 - 🌍 **Location:** Pune, India  
 - 📫 **Email:** [yashshinde.dev@gmail.com](mailto:yashshinde.dev@gmail.com)  
-- 🔗 **Portfolio:** [Portfolio Website](#)  
+- 🔗 **Portfolio:** [Portfolio Website](https://yash-s-portfolio-gilt.vercel.app/)  
 - 🔗 **LinkedIn:** [Yash Shinde](https://www.linkedin.com/in/yasssh-shinde)
   
 ---
